@@ -1,4 +1,3 @@
-
 # AI Tooling Chat History & Prompts (PROMPTS.md)
 
 This file documents the prompt history and AI interactions used during the design, implementation, and testing of the **Car Dealership Inventory System (TDD Kata)**.
